@@ -1,0 +1,27 @@
+html {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.profile {
+	box-shadow: 0 1px 1px rgb(0 0 0 / 6%), 0 2px 2px rgb(0 0 0 / 6%), 0 4px 4px rgb(0 0 0 / 6%), 0 6px 8px rgb(0 0 0 / 6%);
+	border-top: 1px solid #f0f0f0;
+	margin-bottom: 25px;
+}
+
+.profile-inner {
+	display: flex;
+	flex-direction: row;
+}
+
+.profile-right {
+	padding: 15px;
+}
+
+.profile-left {
+	background-color: #01a9b4;
+	padding: 5px;
+}
+
+.profile-img {
+	display: block;
+}
